@@ -1,0 +1,48 @@
+.navbar a{
+    text-decoration:none;
+    padding: 10px 100px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: powderblue;
+}
+.profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 120px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.Aboutme p{
+    width: 100px;
+}
+.bottomfooter {
+    width: auto;
+    height: auto;
+    background-color: turquoise;
+    position: relative;
+    top: 400px; 
+    
+}
+table {
+    width: 60px;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+table,th,td {
+    border: 2px solid black;
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: white;
+}
+.gel{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    background-color: aqua;
+    padding: 10px;
+}
