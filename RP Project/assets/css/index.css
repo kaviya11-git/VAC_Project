@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    text-align: justify;
+    font-size: medium;
+}
+.row{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    padding: 20px;
+    text-align: start;
+}
+.one{
+        background-color:aqua;
+}
+.two{
+    
+    background-color:aqua;
+}
+.three{
+   
+    bottom: 0%;
+    background-color: white;
+
+}
